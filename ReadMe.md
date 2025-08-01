@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I’m Cipher, a developer by logic, a cybersecurity enthusiast by instinct and a digital forensic inbestigator by forge.
+Hi, I’m Cipher, a developer by logic, a cybersecurity enthusiast by instinct and a digital forensic investigator by forge.
 
 My specialities are creating scripts, payload creation and malware development. However there is one more that i will not mention, I am an Open Source Intelligence professional
 which means i may locate individuals, particularly  *script kiddies*, *grey hats* and trolls that think they can hide. Especially *video game cheaters* from my experience as they tend to have the script kiddie mindset.
